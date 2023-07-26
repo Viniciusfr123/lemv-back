@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BSI VINICIUS\\IC matemática\\MVC\\lemv-back\\api\\src\\LEMV\\LEMV.Data\\LEMV.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\BSI VINICIUS\\IC matemática\\MVC\\lemv-back\\api\\src\\LEMV\\LEMV.Data\\LEMV.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BSI VINICIUS\\IC matemática\\MVC\\lemv-back\\api\\src\\LEMV\\LEMV.Data\\LEMV.Data.csproj",
+        "projectName": "LEMV.Data",
+        "projectPath": "D:\\BSI VINICIUS\\IC matemática\\MVC\\lemv-back\\api\\src\\LEMV\\LEMV.Data\\LEMV.Data.csproj",
+        "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
+        "outputPath": "D:\\BSI VINICIUS\\IC matemática\\MVC\\lemv-back\\api\\src\\LEMV\\LEMV.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\BSI VINICIUS\\IC matemática\\MVC\\lemv-back\\api\\src\\LEMV\\LEMV.Domain\\LEMV.Domain.csproj": {
+                "projectPath": "D:\\BSI VINICIUS\\IC matemática\\MVC\\lemv-back\\api\\src\\LEMV\\LEMV.Domain\\LEMV.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Abp": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.2, )"
+            },
+            "MongoDB.Driver.GridFS": {
+              "target": "Package",
+              "version": "[2.19.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BSI VINICIUS\\IC matemática\\MVC\\lemv-back\\api\\src\\LEMV\\LEMV.Domain\\LEMV.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BSI VINICIUS\\IC matemática\\MVC\\lemv-back\\api\\src\\LEMV\\LEMV.Domain\\LEMV.Domain.csproj",
+        "projectName": "LEMV.Domain",
+        "projectPath": "D:\\BSI VINICIUS\\IC matemática\\MVC\\lemv-back\\api\\src\\LEMV\\LEMV.Domain\\LEMV.Domain.csproj",
+        "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
+        "outputPath": "D:\\BSI VINICIUS\\IC matemática\\MVC\\lemv-back\\api\\src\\LEMV\\LEMV.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

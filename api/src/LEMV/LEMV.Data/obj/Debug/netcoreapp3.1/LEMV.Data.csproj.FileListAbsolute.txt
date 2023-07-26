@@ -1,0 +1,16 @@
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\bin\Debug\netcoreapp3.1\LEMV.Data.deps.json
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\bin\Debug\netcoreapp3.1\LEMV.Data.runtimeconfig.json
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\bin\Debug\netcoreapp3.1\LEMV.Data.runtimeconfig.dev.json
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\bin\Debug\netcoreapp3.1\LEMV.Data.dll
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\bin\Debug\netcoreapp3.1\LEMV.Data.pdb
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\bin\Debug\netcoreapp3.1\LEMV.Domain.dll
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\bin\Debug\netcoreapp3.1\LEMV.Domain.pdb
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\obj\Debug\netcoreapp3.1\LEMV.Data.AssemblyInfoInputs.cache
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\obj\Debug\netcoreapp3.1\LEMV.Data.AssemblyInfo.cs
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\obj\Debug\netcoreapp3.1\LEMV.Data.csproj.CoreCompileInputs.cache
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\obj\Debug\netcoreapp3.1\LEMV.Data.csproj.CopyComplete
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\obj\Debug\netcoreapp3.1\LEMV.Data.dll
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\obj\Debug\netcoreapp3.1\LEMV.Data.pdb
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\obj\Debug\netcoreapp3.1\LEMV.Data.genruntimeconfig.cache
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\obj\Debug\netcoreapp3.1\LEMV.Data.csproj.AssemblyReference.cache
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Data\obj\Debug\netcoreapp3.1\LEMV.Data.GeneratedMSBuildEditorConfig.editorconfig

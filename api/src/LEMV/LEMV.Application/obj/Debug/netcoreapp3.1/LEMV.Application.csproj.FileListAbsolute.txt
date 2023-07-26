@@ -1,0 +1,13 @@
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Application\bin\Debug\netcoreapp3.1\LEMV.Application.deps.json
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Application\bin\Debug\netcoreapp3.1\LEMV.Application.dll
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Application\bin\Debug\netcoreapp3.1\LEMV.Application.pdb
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Application\bin\Debug\netcoreapp3.1\LEMV.Domain.dll
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Application\bin\Debug\netcoreapp3.1\LEMV.Domain.pdb
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Application\obj\Debug\netcoreapp3.1\LEMV.Application.AssemblyInfoInputs.cache
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Application\obj\Debug\netcoreapp3.1\LEMV.Application.AssemblyInfo.cs
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Application\obj\Debug\netcoreapp3.1\LEMV.Application.csproj.CoreCompileInputs.cache
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Application\obj\Debug\netcoreapp3.1\LEMV.Application.csproj.CopyComplete
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Application\obj\Debug\netcoreapp3.1\LEMV.Application.dll
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Application\obj\Debug\netcoreapp3.1\LEMV.Application.pdb
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Application\obj\Debug\netcoreapp3.1\LEMV.Application.csproj.AssemblyReference.cache
+D:\BSI VINICIUS\IC matemática\git\LEMV-Project\api\src\LEMV\LEMV.Application\obj\Debug\netcoreapp3.1\LEMV.Application.GeneratedMSBuildEditorConfig.editorconfig
